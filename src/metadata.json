@@ -1,0 +1,34 @@
+{
+  "name": "Solana Hacker",
+  "symbol": "SHACK",
+  "description": "This NFT was generated using ai while making the Alchemey intro to solana video.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.sea.tube/ipfs/QmbNcYAUxNURJdNyxDxA7VU7uxeZ8icRPZjJKNKsp7meZC",
+  "external_url": "https://gagebachik.com/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Glass Eater"
+    }
+  ],
+  "collection": {
+    "name": "Alchemy Test NFTs",
+    "family": "Alchemy Test NFTs"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.sea.tube/ipfs/QmbNcYAUxNURJdNyxDxA7VU7uxeZ8icRPZjJKNKsp7meZC",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "maxSupply": 1,
+    "creators": [
+      {
+        "address": "GKPoVMxhDTi3SGxK8wRgguwfXjV8EmNkpqCfeQWyhniT",
+        "share": 100
+      }
+    ]
+  }
+}
